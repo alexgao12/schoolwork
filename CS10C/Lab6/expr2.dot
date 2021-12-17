@@ -1,0 +1,12 @@
+digraph G {
+key"k" -> "g";
+key"k" -> "j";
+key"g" -> "c";
+key"g" -> "f";
+key"c" -> "a";
+key"c" -> "b";
+key"f" -> "d";
+key"f" -> "e";
+key"j" -> "h";
+key"j" -> "i";
+}
